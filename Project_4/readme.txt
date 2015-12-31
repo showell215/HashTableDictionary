@@ -1,0 +1,3 @@
+This program is a rudimentary spellchecker that utilizies a hash table implementation. It reads in the dictionary file, "dict.txt", which contains a list of the 25,000 most common words in English, and builds a hash table from those words. It then prompts the user for any text file, and checks those words against the dictiocnary entries using its hash function. 
+
+Program outputs a list misspelled words, along with stats related to program efficiency. The hash table averages about 1.35 probes per lookup operation.
