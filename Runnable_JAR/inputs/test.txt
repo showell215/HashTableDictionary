@@ -1,0 +1,1 @@
+This is a sentence, that, like some others, has commas in it. Words that come after a period should be capitalized. I'll say! After exclamation points too.
